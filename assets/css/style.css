@@ -1,4 +1,5 @@
 *{
+    margin-top: 0px;
     margin: 0px;
 }
 body{
@@ -53,20 +54,4 @@ a{
     text-decoration: none;
 }
 
-.info{
-    float:left;
-    display: inline;
-    overflow: hidden;
-    width: 50%;
-}
 
-.dinfo{
-    float: left;
-    width:50%;
-    overflow: hidden;
-    display: inline;
-}
-
-.dinfo ul{
-    list-style: none;
-}
