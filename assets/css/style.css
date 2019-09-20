@@ -1,4 +1,4 @@
-*{
+      *{
     margin-top: 0px;
     margin: 0px;
 }
@@ -10,6 +10,7 @@ body{
     margin-top: 0px;
 }
 .page-header{
+     margin:0px auto;
     text-align: center;
     padding:20px;
     color: #fff;
@@ -22,36 +23,16 @@ body{
 }
 
 .main{
-    margin:25px auto;
-    width:85%;
+    margin-top:25px;
 }
 
-.side_menue{
-    width:20%;
-    float: left;
-    display: flex;
-    margin-right: 40px;
+.info li a{
+  text-decoration: none;;
+  font-size: initial;
+  font-weight: bold;
 }
 
-.side_menue ul {
-    font-size: large;
-    list-style: none;
-    
-}
-
-.side_menue ul li{
-    text-decoration: none;
-}
-
-.content{
-    float:left;
-    /* margin-left: 35px; */
-    width:70%;
-
-}
 
 a{
     text-decoration: none;
 }
-
-
