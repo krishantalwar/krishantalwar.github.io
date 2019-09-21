@@ -15,10 +15,22 @@ header{
 }
 
 
+
+
 .Container{
 
 	margin-top: 5%;
 	padding-top: 0%;
+	
+}
+
+.aione-nav.horizontal {
+	border-bottom: 0px;
+}
+
+.aione-nav ul li a {
+	padding: 0 10px;
+	font-size: 27px;
 	
 }
 
