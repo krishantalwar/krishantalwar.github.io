@@ -14,8 +14,17 @@ header{
     border-top: 10px solid #778492;
 }
 
+
+
+.aione-nav ul li a {
+    padding: 0 10px;
+    font-size: 27px;
+    color: white;
+}
+
+
 .underline-down>ul>li>a span::after, .underline-left>ul>li>a span::after, .underline-right>ul>li>a span::after, .underline-up>ul>li>a span::after {
-	    background-color: #333333;
+	   background-color: #333333;
 	
 }
 
