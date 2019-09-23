@@ -8,9 +8,15 @@
 
 ul li{
  list-style: inherit;
+        list-style: inside;
     padding: 23px;    
      
 }
+
+ui{
+        list-style: inside;
+}
+
 
 
 .l60{
